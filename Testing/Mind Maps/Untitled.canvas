@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ab5943235a816855","type":"text","text":"This is my first diagram!\n","x":-140,"y":-220,"width":250,"height":60,"color":"2"},
+		{"id":"b7b9a13ed7936c13","type":"text","text":"","x":180,"y":-220,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f506bbdc5f983589","fromNode":"ab5943235a816855","fromSide":"right","toNode":"b7b9a13ed7936c13","toSide":"left"}
+	]
+}

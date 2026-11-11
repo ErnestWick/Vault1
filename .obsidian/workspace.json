@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "6eaafd4003be08fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1e7c1d078911097",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aa23179ab86e81d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Chapter1/step1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "step1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "055305c993107ede",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f224e834d5d1a81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebaefeea2a790111",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bd5c6ae629bee64d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "11cf5dd81cf4803f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd47603709a90ec9",
+    "type": "split",
+    "children": [
+      {
+        "id": "36d684ab47bd05d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "048227332afb2af9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "160cfec29d9268e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ab6dd3e1d26471a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "69cf3e94fe1eb65e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "eed783dccd2bb14a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "2c4eb9b8fa077c55",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 436.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "3aa23179ab86e81d",
+  "lastOpenFiles": [
+    "README.md",
+    "English/Chapter1/step1.md",
+    "Untitled.md",
+    "Untitled Kanban.md",
+    "Estudio - Spaced Repetition.md",
+    "2026-11-07.md",
+    "2026-11-06.md",
+    "English/Chapter1",
+    "English",
+    "QA English Flashcards.md",
+    "Excalidraw/Drawing 2026-11-06 10.51.05.excalidraw.md",
+    "Pasted image 20261106110449.png",
+    "Pasted image 20261106105617.png",
+    "#flashcards.md",
+    "Testing/Mind Maps/Untitled.canvas",
+    "Excalidraw",
+    "Change2/Note2.md",
+    "Testing/Mind Maps",
+    "Welcome.md",
+    "Untitled 1.canvas",
+    "Untitled.base",
+    "Testing"
+  ]
+}
